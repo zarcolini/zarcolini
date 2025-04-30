@@ -1,5 +1,3 @@
-Aquí tienes tu texto actualizado, incluyendo que eres experto en la creación de flujos para chatbots:
-
 ---
 
 # 👨‍💻 Hi, I'm **Cristhian Zavala**  
