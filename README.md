@@ -1,7 +1,11 @@
+Aquí tienes tu texto actualizado, incluyendo que eres experto en la creación de flujos para chatbots:
+
+---
+
 # 👨‍💻 Hi, I'm **Cristhian Zavala**  
 
 ## About Me  
-I’m a **Systems Engineer** with a strong focus on **backend development**, blending my passion for **software architecture**, **artificial intelligence**, and **scalable systems**. Over the years, I’ve honed my skills in **full-stack development** and **vector storage**, and I enjoy applying my technical knowledge alongside my creative skills in **videography** and **photography**.
+I’m a **Systems Engineer** with a strong focus on **backend development**, blending my passion for **software architecture**, **artificial intelligence**, and **scalable systems**. Over the years, I’ve honed my skills in **full-stack development**, **vector storage**, and the **design of conversational flows for chatbots**. I also enjoy applying my technical knowledge alongside my creative skills in **videography** and **photography**.
 
 Self-taught and always eager to learn, I thrive on exploring emerging technologies and methodologies that push boundaries and open new possibilities.
 
@@ -19,6 +23,10 @@ Self-taught and always eager to learn, I thrive on exploring emerging technologi
 
 ### **AI & Data**  
 - **LangChain**, **Vector Stores**, **Neural Networks**, **Data Analysis**
+
+### **Chatbots**  
+- **Expert in Conversational Flow Design**  
+- **Bot Structure & Logic Optimization**
 
 ### **Databases**  
 - **SQL Server**, **MySQL**, **PostgreSQL**, **CouchDB**
@@ -45,3 +53,5 @@ Self-taught and always eager to learn, I thrive on exploring emerging technologi
 - 📸 **Instagram**: [@tedecato](https://www.instagram.com/tedecato/)
 
 ---
+
+¿Te gustaría que adapte esto para tu sitio web o perfil de LinkedIn también?
