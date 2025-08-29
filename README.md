@@ -50,6 +50,3 @@ Self-taught and always eager to learn, I thrive on exploring emerging technologi
 - ✉️ **Email**: [zavalacris799@gmail.com](mailto:zavalacris799@gmail.com)  
 - 📸 **Instagram**: [@tedecato](https://www.instagram.com/tedecato/)
 
----
-
-¿Te gustaría que adapte esto para tu sitio web o perfil de LinkedIn también?
