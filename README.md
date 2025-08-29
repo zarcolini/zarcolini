@@ -76,7 +76,7 @@ Además de mi expertise técnico, combino mis habilidades con mis conocimientos 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarcolini&theme=radical&hide_border=true" alt="Racha de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=zarcolini&theme=radical&hide_border=true" alt="Racha de commits" />
 </div>
 
 ---
