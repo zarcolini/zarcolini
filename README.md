@@ -34,10 +34,18 @@ Además de mi expertise técnico, combino mis habilidades con mis conocimientos 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🤖 AI & Data Science
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -79,7 +87,9 @@ Además de mi expertise técnico, combino mis habilidades con mis conocimientos 
 - 🏗️ **Arquitectura de Software**: Diseño e implementación de sistemas escalables y robustos
 - 🔍 **Bases de Datos Vectoriales**: Implementación y optimización de sistemas de almacenamiento vectorial para IA
 - 🌐 **APIs y Microservicios**: Desarrollo de arquitecturas distribuidas y servicios REST
-- 📊 **Análisis de Datos**: Extracción de insights valiosos mediante técnicas de análisis avanzado
+- 📊 **Machine Learning**: Implementación de modelos predictivos, regresión logística y redes neuronales
+- 📈 **Análisis de Datos**: EDA, visualización estadística y preprocessing de datasets complejos
+- 🔬 **Data Science**: Análisis exploratorio, correlaciones y métricas de evaluación de modelos
 
 ---
 
@@ -90,7 +100,7 @@ Además de mi expertise técnico, combino mis habilidades con mis conocimientos 
 
 ---
 
-## 🤝 Contacto
+## 🤝 Conecta Conmigo
 
 <div align="center">
 
