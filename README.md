@@ -1,52 +1,115 @@
----
+# 👨‍💻 ¡Hola! Soy Cristhian Zavala
 
-# 👨‍💻 Hi, I'm **Cristhian Zavala**  
-
-## About Me  
-I’m a **Systems Engineer** with a strong focus on **backend development**, blending my passion for **software architecture**, **artificial intelligence**, and **scalable systems**. Over the years, I’ve honed my skills in **full-stack development**, **vector storage**, and the **design of conversational flows for chatbots**. I also enjoy applying my technical knowledge alongside my creative skills in **videography** and **photography**.
-
-Self-taught and always eager to learn, I thrive on exploring emerging technologies and methodologies that push boundaries and open new possibilities.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Systems+Engineer;Backend+Developer;AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies  
-### **Backend Development**  
-- **Node.js**, **Java**, **C#**, **C++**, **Python**
+## 🚀 Sobre Mí
 
-### **Frontend Development**  
-- **Next.js**, **TypeScript**, **HTML**, **CSS**, **PHP**, **Bootstrap**, **Tailwind CSS**
+Soy un **Ingeniero de Sistemas** especializado en **desarrollo backend**, con una sólida experiencia en **arquitectura de software**, **inteligencia artificial** y **sistemas escalables**. Mi pasión por la tecnología me ha llevado a dominar el **desarrollo full-stack**, el manejo de **bases de datos vectoriales** y el **diseño de flujos conversacionales para chatbots**.
 
-### **Mobile Development**  
-- **React Native**
+Además de mi expertise técnico, combino mis habilidades con mis conocimientos en **videografía** y **fotografía**, creando una perspectiva única en cada proyecto.
 
-### **AI & Data**  
-- **LangChain**, **Vector Stores**, **Neural Networks**, **Data Analysis**
-
-### **Chatbots**  
-- **Expert in Conversational Flow Design**  
-- **Bot Structure & Logic Optimization**
-
-### **Databases**  
-- **SQL Server**, **MySQL**, **PostgreSQL**, **CouchDB**
-
-### **DevOps & Cloud**  
-- **Git**, **Docker**, **AWS**, **Azure**, **Hostinger**
-
-### **Architecture & Development**  
-- **APIs**, **Microservices**, **Clean Architecture**
-
-### **Multimedia**  
-- **Video Editing**, **Photography**
+**Autodidacta** y siempre en búsqueda de nuevos desafíos, disfruto explorando tecnologías emergentes que amplíen los límites de lo posible.
 
 ---
 
-## 🌍 Languages  
-- **Spanish** (Native)  
-- **English** (Fluent)
+## 🛠️ Stack Tecnológico
+
+### 💻 Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🤖 AI & Data Science
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apache-couchdb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎥 Multimedia
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
-## 📫 Contact  
-- ✉️ **Email**: [zavalacris799@gmail.com](mailto:zavalacris799@gmail.com)  
-- 📸 **Instagram**: [@tedecato](https://www.instagram.com/tedecato/)
+## 📊 Estadísticas de GitHub
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical&hide_border=true" alt="Racha de commits" />
+</div>
+
+---
+
+## 🎯 Especialidades
+
+- 🤖 **Desarrollo de Chatbots**: Experto en diseño de flujos conversacionales y optimización de la lógica de bots
+- 🏗️ **Arquitectura de Software**: Diseño e implementación de sistemas escalables y robustos
+- 🔍 **Bases de Datos Vectoriales**: Implementación y optimización de sistemas de almacenamiento vectorial para IA
+- 🌐 **APIs y Microservicios**: Desarrollo de arquitecturas distribuidas y servicios REST
+- 📊 **Análisis de Datos**: Extracción de insights valiosos mediante técnicas de análisis avanzado
+
+---
+
+## 🌍 Idiomas
+
+🇪🇸 **Español** - Nativo  
+🇺🇸 **Inglés** - Fluido
+
+---
+
+## 🤝 Contacto
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zavalacris799@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tedecato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=blueviolet&style=for-the-badge" alt="Visitantes del perfil" />
+</div>
+
+<div align="center">
+  
+**¡Gracias por visitar mi perfil! 🚀**
+  
+*"La única forma de hacer un gran trabajo es amar lo que haces"* - Steve Jobs
+
+</div>
