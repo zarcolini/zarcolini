@@ -68,15 +68,15 @@ Además de mi expertise técnico, combino mis habilidades con mis conocimientos 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zarcolini&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarcolini&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical&hide_border=true" alt="Racha de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarcolini&theme=radical&hide_border=true" alt="Racha de commits" />
 </div>
 
 ---
